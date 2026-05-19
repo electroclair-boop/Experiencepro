@@ -1,6 +1,0 @@
-/* Minimal reset to avoid conflicts with App.css */
-#root {
-  width: 100%;
-  margin: 0;
-  padding: 0;
-}
